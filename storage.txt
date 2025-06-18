@@ -1,0 +1,9 @@
+4
+Feijão
+5
+Arroz
+3
+Batata
+9
+Biscoito
+8
